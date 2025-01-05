@@ -1,6 +1,6 @@
 # Awesome Solana AI Projects
 
-A curated list of amazing Solana-based projects leveraging Artificial Intelligence.
+A curated list of awesome Solana-based projects that leverage Artificial Intelligence or contribute to building infrastructure for AI applications.
 
 > [!IMPORTANT]  
 > The Solana ecosystem often faces FUD caused by meme projects with no real foundation.  
