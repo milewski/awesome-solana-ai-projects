@@ -14,7 +14,7 @@ A curated list of awesome Solana-based projects that leverage Artificial Intelli
 # Projects
 
 - ### **[DearBook.AI](https://dearbook.ai)**
-  A platform for generating illustrated children books with AI.  
+  A platform for generating illustrated children's books with AI.  
   [dexscreener](https://dexscreener.com/solana/4sqm5vwisz3a4g2zagvv1ltg3csqmxxbb2qfuucu9jtv), [telegram](https://t.me/dearbookcommunity), [x](https://x.com/DearBookAI)
 
 - ### **[OctonetAI](https://www.octonet.ai)**
