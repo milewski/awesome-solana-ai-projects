@@ -13,7 +13,11 @@ A curated list of amazing Solana-based projects leveraging Artificial Intelligen
 
 - ### **[DearBook.AI](https://dearbook.ai)**
   A platform for generating illustrated children books with AI.  
-  [dexscreener](https://dexscreener.com/solana/4sqm5vwisz3a4g2zagvv1ltg3csqmxxbb2qfuucu9jtv), [telegram](https://x.com/DearBookAI), [x](https://x.com/DearBookAI)
+  [dexscreener](https://dexscreener.com/solana/4sqm5vwisz3a4g2zagvv1ltg3csqmxxbb2qfuucu9jtv), [telegram](https://t.me/dearbookcommunity), [x](https://x.com/DearBookAI)
+
+- ### **[OctonetAI](https://www.octonet.ai)**
+  Transforming AI innovation with scalable, blockchain-powered solutions.  
+  [dexscreener](https://dexscreener.com/solana/8k8ebatkwt6lzlpy3qjvx3qr26r5o7yqc4r3xmkwgfbv), [telegram](https://t.me/OctonetAiChat), [x](https://x.com/octonetai)
 
 ---
 **[Add Your Project](https://github.com/milewski/awesome-solana-ai-projects/edit/main/README.md)**
